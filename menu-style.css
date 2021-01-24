@@ -1,0 +1,48 @@
+
+body {
+	text-align: center;
+	font-family: 'Roboto';
+	
+}
+
+
+#dog-pic {
+	width: 200px;
+}
+
+.btn {
+	border: 3px solid black;
+	padding: 5px;
+	margin: 8px;
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 5px;
+	font-size: 150%;
+	background-color: white;
+	color: black;
+}
+
+.btn:hover {
+	background-color: #9D9D9D;
+}
+
+#header {
+	background-image: url("img/binary-bg.jpg");
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
